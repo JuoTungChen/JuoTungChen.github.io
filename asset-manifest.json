@@ -8,7 +8,15 @@
     "static/js/2.c04ab5b9.chunk.js": "/static/js/2.c04ab5b9.chunk.js",
     "static/js/2.c04ab5b9.chunk.js.map": "/static/js/2.c04ab5b9.chunk.js.map",
     "index.html": "/index.html",
+<<<<<<< HEAD
     "precache-manifest.3fd37ce89539ce8394748cbffb16cc97.js": "/precache-manifest.3fd37ce89539ce8394748cbffb16cc97.js",
+=======
+<<<<<<< HEAD
+    "precache-manifest.ea490b8d0bb183a043e8abe31de96805.js": "/precache-manifest.ea490b8d0bb183a043e8abe31de96805.js",
+=======
+    "precache-manifest.ef2d407a63d8336655b7a59f56fa031c.js": "/precache-manifest.ef2d407a63d8336655b7a59f56fa031c.js",
+>>>>>>> origin/master
+>>>>>>> origin/master
     "service-worker.js": "/service-worker.js",
     "static/css/main.00a5b342.chunk.css.map": "/static/css/main.00a5b342.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
