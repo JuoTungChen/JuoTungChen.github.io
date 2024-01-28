@@ -52,14 +52,12 @@ permalink: /projects/
 <h3 align="center">
     <strong><a href="https://sites.google.com/view/3d-printed-robotic-arm/home">3D Printed Robotic Arm</a></strong>
 </h3>
-<div style="float: right; width: 40%;">
+<div style="float: left; width: 40%;">
     <img src="/projects/arm/arm_teaser.jpg" width="90%">
 </div>
 
-<div style="float: left; width: 55%;">
-    <p>
-    <strong>3D printing | Solidworks | Mechanism design </strong> <br><br>
-    This project aims to develop an intelligent sensing and precise cultivating system for tomato growth in greenhouses by integrating Chlorophyll Fluorescence Imaging with a robotic arm. I designed and 3d printed a 5 DoF robotic arm and use it for visual-servoing to accomplish this.
-    </p>
-</div>
+<p>
+<strong>3D printing | Solidworks | Mechanism design </strong> <br><br>
+This project aims to develop an intelligent sensing and precise cultivating system for tomato growth in greenhouses by integrating Chlorophyll Fluorescence Imaging with a robotic arm. I designed and 3d printed a 5 DoF robotic arm and use it for visual-servoing to accomplish this.
+</p>
 
