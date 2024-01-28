@@ -14,7 +14,9 @@ permalink: /projects/
 ## Research Projects at JHU
 <hr>
 <br>
-<h3 align="center"><strong>LLM-Aided End-User Robot Programming</strong></h3>
+<h3 align="center">
+    <strong><a href="https://sites.google.com/view/llm-alchemist/home">LLM-Aided End-User Robot Programming</a></strong>
+</h3>
 <div style="float: left; width: 40%;">
     <img src="/projects/alchemist/alchemist_teaser.jpg" width="90%">
 </div>
@@ -23,7 +25,7 @@ permalink: /projects/
     We introduce a novel integrated development system, <strong>Alchemist</strong>, that leverages LLMs to empower end-users in creating, testing, and running robot programs using natural language inputs, aiming to reduce the required knowledge for developing robot applications.  
 </p>
 <br>
-<hr>
+<!-- <hr> -->
 <br>
 
 ## Research Projects at NTU
@@ -47,7 +49,9 @@ permalink: /projects/
 <hr>
 <br>
 
-<h3 align="center"><strong>3D Printed Robotic Arm</strong></h3>
+<h3 align="center">
+    <strong><a href="https://sites.google.com/view/3d-printed-robotic-arm/home">3D Printed Robotic Arm</a></strong>
+</h3>
 <div style="float: right; width: 40%;">
     <img src="/projects/arm/arm_teaser.jpg" width="90%">
 </div>
