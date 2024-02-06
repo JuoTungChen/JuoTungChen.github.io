@@ -87,16 +87,22 @@ layout: default
             <a href="https://arxiv.org/abs/2310.06646">arViv</a>  &nbsp; |  &nbsp; 
             <a href="./projects/LLM/Forgetful-Large-Language-Models-Lessons-Learned-from-Using-LLMs-in-Robot-Programming.pdf">slides</a> 
         </li>
-
     </ul>
     <ul>
-
         <li>
             Alchemist: LLM-Aided End-User Development of Robot Applications <br>
             Ulas Berk Karl, <strong>Juo-Tung Chen</strong>, Chien-Ming Huang, Victor Nikhil Antony <br>
             <em>2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI)</em> (Accepted) <br>
             &nbsp; 
             <a>paper to come</a>
+        </li>
+    </ul>
+</table>
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+    <h2>Community Service</h2>
+    <ul>
+        <li>
+            Peer-reviewed for <em>Conference on Human Factors in Computing Systems (CHI)</em>
         </li>
     </ul>
 </table>
