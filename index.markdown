@@ -82,19 +82,19 @@ layout: default
         <li>
             Forgetful Large Language Models: Lessons Learned from Using LLMs in Robot Programming <br>
             <strong>Juo-Tung Chen</strong>, Chien-Ming Huang <br>
-            <em>2023 AAAI Fall Symposium on Unifying Representations for Robot Application Development</em> <br>
+            <em>Proceedings of the AAAI Symposium Series</em> <br>
             &nbsp; 
-            <a href="https://arxiv.org/abs/2310.06646">arViv</a>  &nbsp; |  &nbsp; 
-            <a href="./projects/LLM/Forgetful-Large-Language-Models-Lessons-Learned-from-Using-LLMs-in-Robot-Programming.pdf">slides</a> 
+            <a href="https://ojs.aaai.org/index.php/AAAI-SS/article/view/27721">Paper</a>  &nbsp; |  &nbsp; 
+            <a href="./projects/LLM/Forgetful-Large-Language-Models-Lessons-Learned-from-Using-LLMs-in-Robot-Programming.pdf">Slides</a> 
         </li>
     </ul>
     <ul>
         <li>
             Alchemist: LLM-Aided End-User Development of Robot Applications <br>
-            Ulas Berk Karl, <strong>Juo-Tung Chen</strong>, Chien-Ming Huang, Victor Nikhil Antony <br>
-            <em>2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI)</em> (Accepted) <br>
+            Ulas Berk Karl, <strong>Juo-Tung Chen</strong>, Victor Nikhil Antony, Chien-Ming Huang <br>
+            <em>Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction <br>
             &nbsp; 
-            <a>paper to come</a>
+            <a href="https://dl.acm.org/doi/abs/10.1145/3610977.3634969">Paper</a>
         </li>
     </ul>
 </table>
