@@ -41,7 +41,7 @@ layout: default
 </div>
 
 <div style="text-align: center;">
-    <img src="./assets/Juo-Tung-photo.jpg" width="20%" height="23%" style="border-radius: 50%;"> 
+    <img src="./assets/JuoTung_photo.jpg" width="20%" height="23%" style="border-radius: 50%;"> 
     <br>
     <strong>Juo-Tung (Justin) Chen</strong>
     <br>
