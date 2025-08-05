@@ -16,7 +16,7 @@ layout: default
 
 <div style="float: right; width: 70%;">
     <p>
-        I am a 1st-year PhD Student @ 
+        I am a PhD Student @ 
         <a href="https://www.jhu.edu/">Johns Hopkins University</a> in Mechanical Engineering, advised by <a href="https://imerse.lcsr.jhu.edu/"><b>Axel Krieger</b></a> in the <a href="https://imerse.lcsr.jhu.edu/">Intelligent Medical Robotic Systems and Equipment Lab (IMERSE)</a>.
     </p>
     <p>
@@ -34,14 +34,14 @@ layout: default
     <div style="text-align: center;">
         &nbsp; <i class="fa fa-file"></i> <a href="https://drive.google.com/file/d/1_8qxxrcBSb_2lkZrlzA6TYpX5_q_Btea/view?usp=sharing">&nbsp; CV</a> &nbsp; |
         &nbsp; <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/juo-tung-chen/">&nbsp; LinkedIn</a>  &nbsp; |
-        &nbsp; <i class="fa fa-github"></i> <a href="https://github.com/JuoTungChe">&nbsp; GitHub</a>  &nbsp; |
+        &nbsp; <i class="fa fa-github"></i> <a href="https://github.com/JuoTungChen">&nbsp; GitHub</a>  &nbsp; |
         &nbsp; <i class="fa fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAXxk2fHAZPjPFlZOI1pwkNiaeLONfXh8d1Bk3ozfIDCi39IcHQp8BZHilhw_QL-Gnu_nLg_e4Ew6t-VeA&user=qqUqgWoAAAAJ"> Google Scholar</a>  &nbsp; |
         &nbsp; <i class="fa fa-envelope"></i> <a href="mailto:jchen396@jhu.edu">&nbsp; Email</a>
     </div>
 </div>
 
 <div style="text-align: center;">
-    <img src="./assets/JuoTung_photo.jpg" width="20%" height="23%" style="border-radius: 50%;"> 
+    <img src="./assets/JuoTung_photo_2025_5.jpg" width="20%" height="23%" style="border-radius: 50%;"> 
     <br>
     <strong>Juo-Tung (Justin) Chen</strong>
     <br>
@@ -54,16 +54,19 @@ layout: default
     <tr>
         <h2>News</h2>
         <ul>
-            <li><strong>[Nov, 2024]</strong> &nbsp;Got accepted as a PhD student advised by Axel Krieger starting from spring 2025!</li>
+            <li><strong>[Jul, 2025]</strong> &nbsp;Our paper <a href="https://h-surgical-robot-transformer.github.io/">SRT-H</a> was featured on the cover of Science Robotics!</li>
         </ul>
         <ul>
-            <li><strong>[Jun, 2024]</strong> &nbsp;One paper accepted to IROS 2024.</li>
+            <li><strong>[Jun, 2025]</strong> &nbsp;Our paper SurgiPose got accepted to IROS 2025!</li>
+        </ul>
+        <ul>
+            <li><strong>[Jun, 2024]</strong> &nbsp;One paper got accepted to IROS 2024!</li>
         </ul>	
         <ul>
             <li><strong>[May, 2024]</strong> &nbsp;Got my master's degree in robotics at JHU!</li>
         </ul>		  
         <ul>
-            <li><strong>[Nov, 2023]</strong> &nbsp;One paper accepted to HRI 2023.</li>
+            <li><strong>[Nov, 2023]</strong> &nbsp;One paper got accepted to HRI 2023!</li>
         </ul>
         <ul>
             <li><strong>[Oct, 2023]</strong> &nbsp;Presented my paper <em>Forgetful LLM</em> at 2023 AAAI Fall Symposium.</li>
@@ -85,7 +88,9 @@ layout: default
         <div style="flex: 1;">
             <b>SRT-H: A Hierarchical Framework for Autonomous Surgery via Language Conditioned Imitation Learning</b> <br>
             Ji Woong Kim, <strong>Juo-Tung Chen</strong>, Pascal Hansen, Lucy Shi, Antony Goldenberg, Samuel Schmidgall, Paul Scheikl, Anton Deguet, Brandon White, De Ru Tsai, Richard Cha, Jeffrey Jopling, Chelsea Finn, Axel Krieger<br>
-            <em>Under review at Science Robotics</em> <br>
+            <em>Science Robotics 2025</em> <br>
+        <a href="https://www.science.org/doi/10.1126/scirobotics.adt5254">Paper</a>  &nbsp; |  &nbsp; 
+        <a href="https://h-surgical-robot-transformer.github.io/">Website</a> 
         </div>
         </div>
     </ul>
@@ -142,7 +147,10 @@ layout: default
             Peer-reviewed for <em>Conference on Human Factors in Computing Systems (CHI)</em>
         </li>
         <li>
-            Peer-reviewed for <em>2023 AAAI Fall Symposium on Unifying Representations for Robot Application Development</em>
+            Peer-reviewed for <em>2024 IROS</em>
+            Peer-reviewed for <em>2025 MICCAI</em>
+            Peer-reviewed for <em>2025 IROS</em>
+            Reviewer for <em>TMRB</em>
         </li>
     </ul>
 </table> -->
