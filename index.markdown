@@ -2,29 +2,17 @@
 layout: default
 # title: Home
 ---
-<style>
-    .wrapper {
-        max-width: 1200px !important;
-        margin-right: auto;
-        margin-left: auto;
-        padding-right: 30px;
-        padding-left: 30px;
-    }
-</style>
 
 <h1>Juo-Tung (Justin) Chen</h1>
 
-<div style="float: right; width: 70%;">
+<div style="float: right; width: 65%;">
     <p>
         I am a PhD Student @ 
         <a href="https://www.jhu.edu/">Johns Hopkins University</a> in Mechanical Engineering, advised by <a href="https://imerse.lcsr.jhu.edu/"><b>Axel Krieger</b></a> in the <a href="https://imerse.lcsr.jhu.edu/">Intelligent Medical Robotic Systems and Equipment Lab (IMERSE)</a>.
     </p>
     <p>
-        I received my Master's degree in <a href="https://lcsr.jhu.edu/mse/">Robotics</a> from <a href="https://www.jhu.edu/">JHU</a> and my Bachelor's degree in 
-        <a href="(https://www.bime.ntu.edu.tw/English/Default.html">Biomechatronics Engineering</a> 
-        from 
-        <a href="(https://www.ntu.edu.tw/">National Taiwan University</a>.
-        During my masters, I worker in <a href="https://intuitivecomputing.github.io/"> Intuitive Computing Lab </a> advised by <a href="https://www.cs.jhu.edu/~cmhuang/"> Chien-Ming Huang </a>, and during my undergrad, I worked in 
+        I received my Master's degree in Robotics from Johns Hopkins University and my Bachelor's degree in Biomechatronics Engineering from National Taiwan University.
+        During my masters, I worked in <a href="https://intuitivecomputing.github.io/"> Intuitive Computing Lab </a> advised by <a href="https://www.cs.jhu.edu/~cmhuang/"> Chien-Ming Huang </a>, and during my undergrad, I worked in 
         <a href="http://rmml.bime.ntu.edu.tw/nturmmle.html">Robots and Medical Mechatronics Lab (RMML)</a> advised by <a href="https://www.bime.ntu.edu.tw/English/News_Photo_Content_n_100917_s_104178.html">Ping-Lang Yen</a>.
     </p>
     <h3><b> Research Interest</b></h3>
@@ -43,7 +31,7 @@ layout: default
 <div style="text-align: center;">
     <img src="./assets/JuoTung_photo_2025_5.jpg" width="20%" height="23%" style="border-radius: 50%;"> 
     <br>
-    <strong>Juo-Tung (Justin) Chen</strong>
+    <h3>Juo-Tung (Justin) Chen</h3>
     <br>
 </div>
 
@@ -53,6 +41,9 @@ layout: default
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
     <tr>
         <h2>News</h2>
+        <ul>
+            <li><strong>[Sep, 2025]</strong> &nbsp;Our paper SutureBot was accepted to NeurIPS 2025! </li>
+        </ul>
         <ul>
             <li><strong>[Jul, 2025]</strong> &nbsp;Our paper <a href="https://h-surgical-robot-transformer.github.io/">SRT-H</a> was featured on the cover of Science Robotics!</li>
         </ul>
@@ -76,7 +67,6 @@ layout: default
         </ul>
     </tr>
 </table>
-</div>
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
     <h2>Publications</h2>
@@ -103,6 +93,7 @@ layout: default
             <b>Reducing Performance Variability and Overcoming Limited Spatial Ability: Targeted Training for Remote Robot Teleoperation</b> <br>
             Tsung-Chi Lin*, <strong>Juo-Tung Chen*</strong>, Chien-Ming Huang <br>
             <em>IROS 2024</em> <br>
+            <a href="https://ieeexplore.ieee.org/document/10801973">Paper</a>
         </div>
         </div>
     </ul>
