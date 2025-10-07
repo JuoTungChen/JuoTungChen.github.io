@@ -73,6 +73,20 @@ layout: default
     <ul>
     <div style="display: flex; align-items: start; gap: 20px;">
         <div style="flex: 0 0 30%;">
+            <img src="./projects/suturebot/teaser.gif" width="100%" style="max-width: 300px;">
+        </div>
+        <div style="flex: 1;">
+            <b>SutureBot: A Precision Framework & Benchmark For Autonomous End-to-End Suturing</b> <br>
+            <strong>Juo-Tung Chen*</strong>, Jesse Haworth*, Nigel Nelson, Ji Woong Kim, Masoud Moghani, Chelsea Finn, Axel Krieger<br>
+            <em>NeurIPS (Dataset and Benchmark) 2025</em> <br>
+        <a href="https://www.science.org/doi/10.1126/scirobotics.adt5254">Paper</a>  &nbsp; |  &nbsp; 
+        <a href="https://h-surgical-robot-transformer.github.io/">Website</a> 
+        </div>
+        </div>
+    </ul>
+    <ul>
+    <div style="display: flex; align-items: start; gap: 20px;">
+        <div style="flex: 0 0 30%;">
             <img src="./projects/SRT-H/teaser.gif" width="100%" style="max-width: 300px;">
         </div>
         <div style="flex: 1;">
@@ -91,7 +105,7 @@ layout: default
         </div>
         <div style="flex: 1;">
             <b>Reducing Performance Variability and Overcoming Limited Spatial Ability: Targeted Training for Remote Robot Teleoperation</b> <br>
-            Tsung-Chi Lin*, <strong>Juo-Tung Chen*</strong>, Chien-Ming Huang <br>
+            <strong>Juo-Tung Chen*</strong>, Tsung-Chi Lin*, Chien-Ming Huang <br>
             <em>IROS 2024</em> <br>
             <a href="https://ieeexplore.ieee.org/document/10801973">Paper</a>
         </div>
