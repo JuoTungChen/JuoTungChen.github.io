@@ -98,6 +98,20 @@ layout: default
         </div>
         </div>
     </ul>
+        <ul>
+    <div style="display: flex; align-items: start; gap: 20px;">
+        <div style="flex: 0 0 30%;">
+            <img src="./projects/surgipose/graphical_abstract.jpeg" width="100%" style="max-width: 300px;">
+        </div>
+        <div style="flex: 1;">
+            <b>SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning</b> <br>
+            <strong>Juo-Tung Chen</strong>, XinHao Chen, Ji Woong Kim, Paul Maria Scheikl,Richard Jaepyeong Cha, and Axel Krieger<br>
+            <em>IROS 2025</em> <br>
+        <!-- <a href="https://www.science.org/doi/10.1126/scirobotics.adt5254">Paper</a>  &nbsp; |  &nbsp; 
+        <a href="https://h-surgical-robot-transformer.github.io/">Website</a>  -->
+        </div>
+        </div>
+    </ul>
     <ul>
     <div style="display: flex; align-items: start; gap: 20px;">
         <div style="flex: 0 0 30%;">
