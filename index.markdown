@@ -20,7 +20,7 @@ layout: default
     <br>
     <br>
     <div style="text-align: center;">
-        &nbsp; <i class="fa fa-file"></i> <a href="https://drive.google.com/file/d/1_8qxxrcBSb_2lkZrlzA6TYpX5_q_Btea/view?usp=sharing">&nbsp; CV</a> &nbsp; |
+        &nbsp; <i class="fa fa-file"></i> <a href="https://drive.google.com/file/d/1M0RSiTAx09wzQeD05_bjngCe8fhEWpUF/view?usp=sharing">&nbsp; CV</a> &nbsp; |
         &nbsp; <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/juo-tung-chen/">&nbsp; LinkedIn</a>  &nbsp; |
         &nbsp; <i class="fa fa-github"></i> <a href="https://github.com/JuoTungChen">&nbsp; GitHub</a>  &nbsp; |
         &nbsp; <i class="fa fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAXxk2fHAZPjPFlZOI1pwkNiaeLONfXh8d1Bk3ozfIDCi39IcHQp8BZHilhw_QL-Gnu_nLg_e4Ew6t-VeA&user=qqUqgWoAAAAJ"> Google Scholar</a>  &nbsp; |
