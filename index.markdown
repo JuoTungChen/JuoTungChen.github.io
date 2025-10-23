@@ -42,7 +42,7 @@ layout: default
     <tr>
         <h2>News</h2>
         <ul>
-            <li><strong>[Sep, 2025]</strong> &nbsp;Our paper SutureBot was accepted to NeurIPS 2025! </li>
+            <li><strong>[Sep, 2025]</strong> &nbsp;Our paper <a href="https://suturebot.github.io/">SutureBot</a> was accepted to NeurIPS 2025! </li>
         </ul>
         <ul>
             <li><strong>[Jul, 2025]</strong> &nbsp;Our paper <a href="https://h-surgical-robot-transformer.github.io/">SRT-H</a> was featured on the cover of Science Robotics!</li>
@@ -79,8 +79,8 @@ layout: default
             <b>SutureBot: A Precision Framework & Benchmark For Autonomous End-to-End Suturing</b> <br>
             <strong>Juo-Tung Chen*</strong>, Jesse Haworth*, Nigel Nelson, Ji Woong Kim, Masoud Moghani, Chelsea Finn, Axel Krieger<br>
             <em>NeurIPS (Dataset and Benchmark) 2025</em> <br>
-        <!-- <a href="https://www.science.org/doi/10.1126/scirobotics.adt5254">Paper</a>  &nbsp; |  &nbsp; 
-        <a href="https://h-surgical-robot-transformer.github.io/">Website</a>  -->
+        <!-- <a href="https://www.science.org/doi/10.1126/scirobotics.adt5254">Paper</a>  &nbsp; |  &nbsp;  -->
+        <a href="https://suturebot.github.io/">Website</a> 
         </div>
         </div>
     </ul>
