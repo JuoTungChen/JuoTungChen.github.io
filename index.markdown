@@ -73,14 +73,26 @@ layout: default
     <ul>
     <div style="display: flex; align-items: start; gap: 20px;">
         <div style="flex: 0 0 30%;">
+            <img src="./projects/cosmos/cosmos_surg.png" width="100%" style="max-width: 300px;">
+        </div>
+        <div style="flex: 1;">
+            <b>Cosmos-Surg-dVRK: World Foundation Model-based Automated Online Evaluation of Surgical Robot Policy Learning</b> <br>
+            Lukas Zbinden, Nigel Nelson, <strong>Juo-Tung Chen</strong>, Xinhao Chen, Ji Woong Kim, Mahdi Azizian, Axel Krieger, Sean Huver<br>
+            <em>Submitted to RA-L, 2025</em> <br>
+            <!-- <a href="#">Paper</a> &nbsp; | &nbsp; -->
+            <!-- <a href="#">Website</a> -->
+        </div>
+    </div>
+    <div style="display: flex; align-items: start; gap: 20px;">
+        <div style="flex: 0 0 30%;">
             <img src="./projects/suturebot/teaser.gif" width="100%" style="max-width: 300px;">
         </div>
         <div style="flex: 1;">
             <b>SutureBot: A Precision Framework & Benchmark For Autonomous End-to-End Suturing</b> <br>
             <strong>Juo-Tung Chen*</strong>, Jesse Haworth*, Nigel Nelson, Ji Woong Kim, Masoud Moghani, Chelsea Finn, Axel Krieger<br>
             <em>NeurIPS (Dataset and Benchmark) 2025</em> <br>
-        <!-- <a href="https://www.science.org/doi/10.1126/scirobotics.adt5254">Paper</a>  &nbsp; |  &nbsp;  -->
-        <a href="https://suturebot.github.io/">Website</a> 
+        <a href="https://suturebot.github.io/static/SutureBot_NeurIPS_2025.pdf">Paper</a>  &nbsp; |  &nbsp; 
+        <a href="https://suturebot.github.io/">Website</a>  &nbsp; |  &nbsp; <a href="https://huggingface.co/datasets/jchen396/SutureBot">Dataset</a>
         </div>
         </div>
     </ul>
@@ -107,7 +119,8 @@ layout: default
             <b>SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning</b> <br>
             <strong>Juo-Tung Chen</strong>, XinHao Chen, Ji Woong Kim, Paul Maria Scheikl,Richard Jaepyeong Cha, and Axel Krieger<br>
             <em>IROS 2025</em> <br>
-        <!-- <a href="https://www.science.org/doi/10.1126/scirobotics.adt5254">Paper</a>  &nbsp; |  &nbsp; 
+        <a href="https://ieeexplore.ieee.org/document/11247452">Paper</a>  &nbsp; 
+        <!-- |  &nbsp; 
         <a href="https://h-surgical-robot-transformer.github.io/">Website</a>  -->
         </div>
         </div>
