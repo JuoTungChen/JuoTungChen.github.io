@@ -42,6 +42,9 @@ layout: default
     <tr>
         <h2>News</h2>
         <ul>
+            <li><strong>[Jan, 2026]</strong> &nbsp;Dataset paper for SRT-H published on Nature Scientific Data</li>
+        </ul>
+        <ul>
             <li><strong>[Sep, 2025]</strong> &nbsp;Our paper <a href="https://suturebot.github.io/">SutureBot</a> was accepted to NeurIPS 2025! </li>
         </ul>
         <ul>
@@ -73,14 +76,26 @@ layout: default
     <ul>
     <div style="display: flex; align-items: start; gap: 20px;">
         <div style="flex: 0 0 30%;">
+            <img src="./projects/imitatecholec/imitate_cholec.png" width="100%" style="max-width: 300px;">
+        </div>
+        <div style="flex: 1;">
+            <b>Pascal Hansen, Ji Woong Brian Kim, Antony Goldenberg, <strong>Juo Tung Chen</strong>, Yuanzhe Amos Li, Anton Deguet, Brandon White, De Ru Tsai, Richard Cha, Jeffrey Jopling, Paul Maria Scheikl, Axel Krieger</b> <br>
+            Lukas Zbinden, Nigel Nelson, <strong>Juo-Tung Chen</strong>, Xinhao Chen, Ji Woong Kim, Mahdi Azizian, Axel Krieger, Sean Huver<br>
+            <em>Nature Scientific Data</em> <br>
+            <a href="https://www.nature.com/articles/s41597-025-06526-z">Paper</a> &nbsp; | &nbsp;
+            <a href="https://archive.data.jhu.edu/dataset.xhtml?persistentId=doi:10.7281/T1PF3FYK">Dataset</a>
+        </div>
+    </div>
+    <div style="display: flex; align-items: start; gap: 20px;">
+        <div style="flex: 0 0 30%;">
             <img src="./projects/cosmos/cosmos_surg.png" width="100%" style="max-width: 300px;">
         </div>
         <div style="flex: 1;">
             <b>Cosmos-Surg-dVRK: World Foundation Model-based Automated Online Evaluation of Surgical Robot Policy Learning</b> <br>
             Lukas Zbinden, Nigel Nelson, <strong>Juo-Tung Chen</strong>, Xinhao Chen, Ji Woong Kim, Mahdi Azizian, Axel Krieger, Sean Huver<br>
-            <em>Submitted to RA-L, 2025</em> <br>
-            <!-- <a href="#">Paper</a> &nbsp; | &nbsp; -->
-            <!-- <a href="#">Website</a> -->
+            <em>Accepted to RA-L</em> <br>
+            <a href="https://arxiv.org/abs/2510.16240">Paper</a> &nbsp; | &nbsp;
+            <a href="https://cosmos-surg-dvrk.github.io/">Website</a>
         </div>
     </div>
     <div style="display: flex; align-items: start; gap: 20px;">
