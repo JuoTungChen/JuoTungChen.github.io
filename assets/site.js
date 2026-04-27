@@ -5,12 +5,16 @@
   function getPreferredTheme() {
     const stored = localStorage.getItem(STORAGE_KEY);
     if (stored === "light" || stored === "dark") return stored;
-    const mql = window.matchMedia("(prefers-color-scheme: dark)");
-    return mql.matches ? "dark" : "light";
+    return "dark"; // default to dark (NVIDIA-style)
   }
 
   function applyTheme(theme) {
-    document.documentElement.setAttribute("data-theme", theme);
+    // CSS defaults are dark; only set attribute for light override
+    if (theme === "light") {
+      document.documentElement.setAttribute("data-theme", "light");
+    } else {
+      document.documentElement.removeAttribute("data-theme");
+    }
     localStorage.setItem(STORAGE_KEY, theme);
     const toggle = document.getElementById("themeToggle");
     if (toggle) toggle.setAttribute("aria-label", theme === "dark" ? "Switch to light theme" : "Switch to dark theme");
@@ -27,7 +31,7 @@
     button.title = "Toggle theme";
     button.innerHTML = "<span aria-hidden='true'>🌓</span>";
     button.addEventListener("click", function () {
-      const current = document.documentElement.getAttribute("data-theme") || "light";
+      const current = document.documentElement.hasAttribute("data-theme") ? "light" : "dark";
       applyTheme(current === "dark" ? "light" : "dark");
     });
     document.body.appendChild(button);
