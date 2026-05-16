@@ -8,14 +8,14 @@ layout: default
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 20px;">
     <div style="text-align: center; flex: 0 0 22%;">
         <img src="./assets/JuoTung_photo_2025_5.jpg" width="100%" style="border-radius: 50%; max-width: 180px;">
-        <br>
-        <strong>Juo-Tung (Justin) Chen</strong>
+        <strong style="display: block; margin-top: 14px;">Juo-Tung (Justin) Chen</strong>
         <br>
     </div>
     <div style="flex: 1;">
         <p>
             I am a PhD Student @
             <a href="https://www.jhu.edu/">Johns Hopkins University</a> in Mechanical Engineering, advised by <a href="https://imerse.lcsr.jhu.edu/"><b>Axel Krieger</b></a> in the <a href="https://imerse.lcsr.jhu.edu/">Intelligent Medical Robotic Systems and Equipment Lab (IMERSE)</a>.
+            I am currently interning at <a href="https://www.nvidia.com/"><b>NVIDIA</b></a> (May 2026).
         </p>
         <p>
             I received my Master's degree in Robotics from Johns Hopkins University and my Bachelor's degree in Biomechatronics Engineering from National Taiwan University.
@@ -45,6 +45,7 @@ layout: default
     <tr>
         <h2>News</h2>
         <ul>
+            <li><strong>[May, 2026]</strong> &nbsp;Started my internship at <a href="https://www.nvidia.com/">NVIDIA</a> in Santa Clara, CA!</li>
             <li><strong>[Apr, 2026]</strong> &nbsp;Our paper <a href="https://open-h.github.io/open-h-embodiment/">Open-H-Embodiment</a> is on arXiv!</li>
             <li><strong>[Feb, 2026]</strong> &nbsp;Our paper <a href="https://arxiv.org/abs/2510.16240">Cosmos-Surg-dVRK</a> got accepted to RA-L!</li>
             <li><strong>[Jan, 2026]</strong> &nbsp;<a href="https://www.nature.com/articles/s41597-025-06526-z">ImitateCholec</a> dataset paper published in Nature Scientific Data!</li>
