@@ -89,10 +89,33 @@
     else fn();
   }
 
+  // Abstract toggle
+  function setupAbstracts() {
+    document.querySelectorAll(".abstract-toggle").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var expanded = btn.getAttribute("aria-expanded") === "true";
+        var text = btn.nextElementSibling;
+        if (!text) return;
+        text.classList.toggle("open", !expanded);
+        btn.setAttribute("aria-expanded", String(!expanded));
+        btn.textContent = expanded ? "Abstract ▾" : "Abstract ▴";
+      });
+    });
+  }
+
   ready(function () {
     ensureThemeToggle();
     ensureBackToTop();
     setupReveal();
     enhanceTables();
+    setupAbstracts();
   });
 })();
+
+function toggleNews(btn) {
+  var extras = document.querySelectorAll(".news-extra");
+  var expanded = btn.getAttribute("aria-expanded") === "true";
+  extras.forEach(function (el) { el.classList.toggle("visible", !expanded); });
+  btn.setAttribute("aria-expanded", String(!expanded));
+  btn.textContent = expanded ? "Show more ▾" : "Show less ▴";
+}

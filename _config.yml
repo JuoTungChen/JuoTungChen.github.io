@@ -30,6 +30,8 @@ github_username:  JuoTungChen
 theme: minima
 # remote_theme: pages-themes/architect@v0.2.0
 
+header_pages: []
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
